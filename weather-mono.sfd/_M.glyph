@@ -1,7 +1,7 @@
 StartChar: M
 Encoding: 77 77 77
 Width: 500
-Flags: HWO
+Flags: HW
 HStem: 0 55<73 230 295 452.5> 619 55<103 230>
 VStem: 230 65<55 619>
 LayerCount: 2
@@ -23,5 +23,5 @@ SplineSet
  115.095703125 499.494140625 l 1
  115.095703125 0 l 1
 EndSplineSet
-Validated: 524291
+Validated: 3
 EndChar

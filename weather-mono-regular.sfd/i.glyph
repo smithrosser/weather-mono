@@ -1,0 +1,25 @@
+StartChar: i
+Encoding: 105 105 105
+Width: 550
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+204 631 m 0xf0
+ 204 663 230 689 262 689 c 0
+ 294 689 320 663 320 631 c 0
+ 320 599 294 573 262 573 c 0
+ 230 573 204 599 204 631 c 0xf0
+225 435 m 1xe8
+ 103 435 l 1
+ 103 498 l 1
+ 300 498 l 5
+ 300 63 l 5
+ 452.5 63 l 1
+ 452.5 0 l 1
+ 73 0 l 1
+ 73 63 l 1
+ 225 63 l 1
+ 225 435 l 1xe8
+EndSplineSet
+EndChar

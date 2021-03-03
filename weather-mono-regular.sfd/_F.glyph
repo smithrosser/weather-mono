@@ -1,0 +1,20 @@
+StartChar: F
+Encoding: 70 70 70
+Width: 550
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+130 0 m 1
+ 54.904296875 0 l 1
+ 55 629 l 1
+ 459.5 629 l 1
+ 459.5 566 l 5
+ 130 566 l 5
+ 130 377 l 1
+ 379.5 377 l 1
+ 379.5 314 l 1
+ 130 314 l 1
+ 130 0 l 1
+EndSplineSet
+EndChar

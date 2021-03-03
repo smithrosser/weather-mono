@@ -1,0 +1,27 @@
+StartChar: t
+Encoding: 116 116 116
+Width: 500
+Flags: W
+HStem: 0 55<261.754 420> 443 55<40 165 230 419.5>
+VStem: 165 65<85.3294 443 498 614>
+LayerCount: 2
+Fore
+SplineSet
+165 131 m 6
+ 165 443 l 5
+ 40 443 l 5
+ 40 498 l 5
+ 165 498 l 5
+ 165 614 l 5
+ 230 614 l 5
+ 230 498 l 5
+ 419.5 498 l 5
+ 419.5 443 l 5
+ 230 443 l 5
+ 230 165 l 6
+ 230 72 258 55 420 55 c 5
+ 420 0 l 5
+ 232 0 165 17 165 131 c 6
+EndSplineSet
+Validated: 1
+EndChar

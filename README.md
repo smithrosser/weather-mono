@@ -6,7 +6,11 @@ Here it is in action:
 
 ![Code example](./res/example_cpp.png "Code example")
 
-Color theme in the screenshot is Dracula.
+Currently supported ligatures:
+
+![Ligatures](./res/ligs.png "Currently supported ligatures")
+
+Color theme in the screenshots is Dracula.
 
 ## Installation
 

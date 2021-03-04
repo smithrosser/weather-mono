@@ -11,7 +11,7 @@ Currently in early development, watch this space!
 Would recommend using the TrueType variant (.ttf), as I'm having some trouble getting the
 OpenType version to hint properly with ClearType.
 
-To install, just right-click on `WeatherMono/*.ttf` and select 'Install for all users'.
+To install, just right-click on `WeatherMono*.ttf` and select 'Install for all users'.
 
 #### Linux
 

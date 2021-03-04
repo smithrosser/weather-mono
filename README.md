@@ -19,7 +19,7 @@ To install, just right-click on `WeatherMono*.ttf` and select 'Install for all u
 
 #### Linux
 
-Would recommend installing the **OpenType variant (`.otf`)** if you're running Linux -- looks a lot nicer.
+Recommend installing the **OpenType variant (`.otf`)** if you're running Linux -- looks a lot nicer.
 Place the file in `~/.local/share/fonts/` or `/usr/share/fonts/` and run `fc-cache -fv`.
 
 #### Mac

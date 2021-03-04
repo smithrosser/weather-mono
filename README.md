@@ -4,7 +4,7 @@ A clean, modern coding font with ligatures. Inspired by Fira Code and Inconsolat
 
 Currently in early development, watch this space!
 
-### Installation
+## Installation
 
 #### Windows
 
@@ -22,7 +22,7 @@ Place the file in `~/.local/share/fonts/` or `/usr/share/fonts/` and run `fc-cac
 
 Haven't tested it on Mac yet: would appreciate your feedback.
 
-### Roadmap
+## Roadmap
 
 - Coding ligatures ✔️
 - ASCII Extended charset

@@ -1,0 +1,17 @@
+StartChar: underscore_underscore
+Encoding: 270 -1 264
+Width: 1100
+HStem: -63 63<22 1025.5>
+LayerCount: 2
+Fore
+SplineSet
+22 -63 m 1
+ 22 0 l 1
+ 1025.5 0 l 1
+ 1025.5 -63 l 1
+ 22 -63 l 1
+EndSplineSet
+Validated: 524289
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" underscore underscore
+EndChar

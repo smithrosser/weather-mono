@@ -1,0 +1,30 @@
+StartChar: less_less
+Encoding: 264 -1 258
+Width: 1100
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+443 348.75 m 5
+ 876 608.25 l 5
+ 876 528.25 l 5
+ 520.54296875 315.754882812 l 5
+ 876 97.75 l 5
+ 876 19.75 l 5
+ 443 279.75 l 5
+ 443 348.75 l 5
+928 -396 m 1052
+33 348.75 m 5
+ 466 608.25 l 5
+ 466 528.25 l 5
+ 110.54296875 315.754882812 l 5
+ 466 97.75 l 5
+ 466 19.75 l 5
+ 33 279.75 l 5
+ 33 348.75 l 5
+378 -396 m 1052
+EndSplineSet
+Validated: 524289
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" less less
+EndChar

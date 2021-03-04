@@ -2,7 +2,22 @@ StartChar: yen
 Encoding: 165 165 165
 Width: 550
 Flags: W
+HStem: 0 21G<222 297> 130 63<70.75 449.25> 238 63<70.75 449.25> 609 20G<34 128.668 389.889 484.5>
+VStem: 222 75<0 260>
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+70.75 130 m 5
+ 70.75 193 l 5
+ 449.25 193 l 5
+ 449.25 130 l 5
+ 70.75 130 l 5
+70.75 238 m 1
+ 70.75 301 l 1
+ 449.25 301 l 1
+ 449.25 238 l 1
+ 70.75 238 l 1
+EndSplineSet
+Refer: 89 89 N 1 0 0 1 0 0 2
+Validated: 524293
 EndChar

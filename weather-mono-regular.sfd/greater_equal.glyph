@@ -1,0 +1,27 @@
+StartChar: greater_equal
+Encoding: 261 -1 255
+Width: 550
+Flags: W
+HStem: 678.25 20G<35.75 69.1219>
+LayerCount: 2
+Fore
+SplineSet
+35.75 -2.25 m 5
+ 468.75 264.75 l 5
+ 468.75 179.75 l 5
+ 35.75 -80.25 l 5
+ 35.75 -2.25 l 5
+468.75 438.75 m 5
+ 468.75 369.75 l 5
+ 35.75 109.75 l 5
+ 35.75 187.75 l 5
+ 391.20703125 405.754882812 l 5
+ 35.75 618.25 l 5
+ 35.75 698.25 l 5
+ 468.75 438.75 l 5
+-467 -306 m 1052
+EndSplineSet
+Validated: 524289
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" greater equal
+EndChar

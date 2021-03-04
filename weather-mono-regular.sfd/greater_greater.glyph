@@ -1,0 +1,29 @@
+StartChar: greater_greater
+Encoding: 263 -1 257
+Width: 1100
+LayerCount: 2
+Fore
+SplineSet
+518 348.75 m 5
+ 85 608.25 l 5
+ 85 528.25 l 5
+ 440.45703125 315.754882812 l 5
+ 85 97.75 l 5
+ 85 19.75 l 5
+ 518 279.75 l 5
+ 518 348.75 l 5
+33 -396 m 1052
+928 348.75 m 5
+ 495 608.25 l 5
+ 495 528.25 l 5
+ 850.45703125 315.754882812 l 5
+ 495 97.75 l 5
+ 495 19.75 l 5
+ 928 279.75 l 5
+ 928 348.75 l 5
+583 -396 m 1052
+EndSplineSet
+Validated: 524297
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" greater greater
+EndChar

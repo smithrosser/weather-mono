@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1614766013
-ModificationTime: 1614816856
+ModificationTime: 1614859068
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -36,18 +36,28 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
+Lookup: 4 0 1 "'liga' Standard Ligatures in Latin lookup 0" { "'liga' Standard Ligatures in Latin lookup 0-1"  } ['liga' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
 Encoding: ISO8859-1
 UnicodeInterp: none
 NameList: AGL For New Fonts
-DisplaySize: -72
+DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 34 14
+WinInfo: 0 39 14
 BeginPrivate: 0
 EndPrivate
 Grid
+499.875 1300 m 0
+ 499.875 -700 l 1024
+  Named: "actual middle"
+1540.5 1300 m 0
+ 1540.5 -700 l 1024
+  Named: "triple-end"
+989.5 1300 m 0
+ 989.5 -700 l 1024
+  Named: "double-end"
 -1018 315 m 0
  1982 315 l 1024
   Named: "lig-centre"

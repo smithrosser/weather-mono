@@ -8,8 +8,9 @@ Fore
 SplineSet
 34 0 m 5
  405.904296875 685 l 5
- 466 661 l 1
- 93 -29 l 1
+ 466 661 l 5
+ 93 -29 l 5
  34 0 l 5
 EndSplineSet
+Validated: 524289
 EndChar

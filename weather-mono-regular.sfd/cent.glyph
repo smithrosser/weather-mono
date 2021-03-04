@@ -2,7 +2,17 @@ StartChar: cent
 Encoding: 162 162 162
 Width: 550
 Flags: W
+HStem: -10 64<195.614 367.789> 446 62<195.089 368.543>
+VStem: 69 74<107.619 391.475> 232.548 75<-95 595>
 LayerCount: 2
 Fore
-Validated: 1
+SplineSet
+232.547851562 -95 m 5
+ 232.452148438 595 l 5
+ 306.547851562 595 l 5
+ 307.547851562 -95 l 5
+ 232.547851562 -95 l 5
+EndSplineSet
+Refer: 99 99 N 1 0 0 1 0 0 2
+Validated: 524293
 EndChar

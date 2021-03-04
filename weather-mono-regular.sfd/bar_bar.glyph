@@ -1,0 +1,23 @@
+StartChar: bar_bar
+Encoding: 271 -1 265
+Width: 1100
+HStem: -176 21G<292.546 367.548 602.546 677.548> 654 20G<292.452 366.571 602.452 676.571>
+VStem: 292.548 75<-176 674> 602.548 75<-176 674>
+LayerCount: 2
+Fore
+SplineSet
+292.547851562 -176 m 1
+ 292.452148438 674 l 1
+ 366.547851562 674 l 1
+ 367.547851562 -176 l 1
+ 292.547851562 -176 l 1
+602.547851562 -176 m 5
+ 602.452148438 674 l 5
+ 676.547851562 674 l 5
+ 677.547851562 -176 l 5
+ 602.547851562 -176 l 5
+EndSplineSet
+Validated: 524289
+LCarets2: 1 0
+Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" bar bar
+EndChar

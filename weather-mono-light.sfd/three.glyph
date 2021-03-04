@@ -1,7 +1,9 @@
 StartChar: three
 Encoding: 51 51 51
 Width: 550
-Flags: HW
+Flags: W
+HStem: -10 55<161.478 336.888> 307 51<250 324.927> 582 53<180.595 328.444>
+VStem: 50.4724 65.4058<90.9383 150> 352 67<383.439 559.813> 382 67<88.9804 275.663>
 LayerCount: 2
 Fore
 SplineSet

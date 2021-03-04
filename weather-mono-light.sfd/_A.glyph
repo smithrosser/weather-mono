@@ -1,7 +1,8 @@
 StartChar: A
 Encoding: 65 65 65
 Width: 550
-Flags: HW
+Flags: W
+HStem: 1 21G<19 100.176 398.462 479.5> 197 54<171.197 329.029> 609 20G<212.631 290.226>
 LayerCount: 2
 Fore
 SplineSet

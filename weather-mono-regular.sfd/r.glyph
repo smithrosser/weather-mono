@@ -1,7 +1,9 @@
 StartChar: r
 Encoding: 114 114 114
 Width: 550
-Flags: HW
+Flags: W
+HStem: 0 21G<115 190> 435.998 71.002<282.282 430> 478 20G<115 182.326>
+VStem: 115 75<0 358.149 406.389 472.2> 115 65<437.8 498>
 LayerCount: 2
 Fore
 SplineSet

@@ -2,14 +2,14 @@ StartChar: underscore
 Encoding: 95 95 95
 Width: 550
 Flags: W
+HStem: -63 63<22 475.5>
 LayerCount: 2
 Fore
 SplineSet
-22 -55 m 1
+22 -63 m 5
  22 0 l 1
  475.5 0 l 1
- 475.5 -55 l 1
- 22 -55 l 1
+ 475.5 -63 l 5
+ 22 -63 l 5
 EndSplineSet
-Validated: 1
 EndChar

@@ -1,7 +1,9 @@
 StartChar: bar
 Encoding: 124 124 124
 Width: 550
-Flags: HW
+Flags: W
+HStem: -176 21G<212.546 287.548> 654 20G<212.452 286.571>
+VStem: 212.548 75<-176 674>
 LayerCount: 2
 Fore
 SplineSet

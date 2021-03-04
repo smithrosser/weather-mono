@@ -1,7 +1,9 @@
 StartChar: O
 Encoding: 79 79 79
 Width: 550
-Flags: HW
+Flags: W
+HStem: -10 63<168.022 331.804> 578 59<169.722 329.353>
+VStem: 25.5 75<134.528 496.303> 397.5 77<134.528 492.756>
 LayerCount: 2
 Fore
 SplineSet

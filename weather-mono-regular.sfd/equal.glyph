@@ -2,19 +2,19 @@ StartChar: equal
 Encoding: 61 61 61
 Width: 550
 Flags: W
+HStem: 190 63<60.75 439.25> 378 63<60.75 439.25>
 LayerCount: 2
 Fore
 SplineSet
-60.75 198 m 5
- 60.75 253 l 5
- 439.25 253 l 5
- 439.25 198 l 5
- 60.75 198 l 5
+60.75 190 m 1
+ 60.75 253 l 1
+ 439.25 253 l 1
+ 439.25 190 l 1
+ 60.75 190 l 1
 60.75 378 m 1
- 60.75 433 l 1
- 439.25 433 l 1
+ 60.75 441 l 5
+ 439.25 441 l 5
  439.25 378 l 1
  60.75 378 l 1
 EndSplineSet
-Validated: 1
 EndChar

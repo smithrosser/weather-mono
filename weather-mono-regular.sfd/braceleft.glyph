@@ -1,7 +1,9 @@
 StartChar: braceleft
 Encoding: 123 123 123
 Width: 550
-Flags: HW
+Flags: W
+HStem: -101 62<325.362 428.773> 286 63<71.2266 172.173> 674 62<325.362 428.773>
+VStem: 208.123 76.582<3.73417 247.913 387.087 631.266>
 CounterMasks: 1 e0
 LayerCount: 2
 Fore

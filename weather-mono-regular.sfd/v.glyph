@@ -1,7 +1,8 @@
 StartChar: v
 Encoding: 118 118 118
 Width: 550
-Flags: HW
+Flags: W
+HStem: 0 21G<206.771 291.249> 478 20G<34 125.939 372.745 464.5>
 LayerCount: 2
 Back
 SplineSet

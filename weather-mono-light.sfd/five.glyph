@@ -1,7 +1,9 @@
 StartChar: five
 Encoding: 53 53 53
 Width: 550
-Flags: HW
+Flags: W
+HStem: -10 55<159.2 334.445> 347 51<182.164 331.456> 573 55<147.691 429.5>
+VStem: 59 65<79.1461 135> 382 67<93.7833 290.482>
 LayerCount: 2
 Fore
 SplineSet

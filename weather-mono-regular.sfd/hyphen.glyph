@@ -1,16 +1,16 @@
 StartChar: hyphen
 Encoding: 45 45 45
-Width: 550
+Width: 549
 Flags: W
-HStem: 283 63<60.75 439.25>
+HStem: 283 63<61 439>
 LayerCount: 2
 Fore
 SplineSet
-60.75 283 m 1
- 60.75 346 l 1
- 439.25 346 l 1
- 439.25 283 l 1
- 60.75 283 l 1
+61 283 m 1
+ 61 346 l 1
+ 439 346 l 1
+ 439 283 l 1
+ 61 283 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

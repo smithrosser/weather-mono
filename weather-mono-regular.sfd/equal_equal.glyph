@@ -1,22 +1,23 @@
 StartChar: equal_equal
 Encoding: 256 -1 250
-Width: 1100
-HStem: 190 63<60.75 989.25> 378 63<60.75 989.25>
+Width: 1099
+Flags: W
+HStem: 190 63<61 989> 378 63<61 989>
 LayerCount: 2
 Fore
 SplineSet
-60.75 378 m 1
- 60.75 441 l 1
- 989.25 441 l 1
- 989.25 378 l 1
- 60.75 378 l 1
-60.75 190 m 1
- 60.75 253 l 1
- 989.25 253 l 1
- 989.25 190 l 1
- 60.75 190 l 1
+61 378 m 1
+ 61 441 l 1
+ 989 441 l 1
+ 989 378 l 1
+ 61 378 l 1
+61 190 m 1
+ 61 253 l 1
+ 989 253 l 1
+ 989 190 l 1
+ 61 190 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" equal equal
 EndChar

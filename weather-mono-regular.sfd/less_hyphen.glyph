@@ -1,24 +1,24 @@
 StartChar: less_hyphen
 Encoding: 269 -1 263
-Width: 1100
+Width: 1099
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-495.75 590 m 5
- 39.75 315 l 5
- 493.75 41 l 5
- 529.75 97.75 l 5
- 174.29296875 315.754882812 l 5
- 529.75 528.25 l 5
- 495.75 590 l 5
+496 590 m 5
+ 40 315 l 5
+ 494 41 l 5
+ 529 98 l 5
+ 174 315 l 5
+ 529 528 l 5
+ 496 590 l 5
 1054 283 m 5
  1054 346 l 5
- 125.5 346 l 5
- 125.5 283 l 5
+ 126 346 l 5
+ 126 283 l 5
  1054 283 l 5
 EndSplineSet
-Validated: 524293
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" less hyphen
 EndChar

@@ -1,24 +1,25 @@
 StartChar: hyphen_greater
 Encoding: 268 -1 262
-Width: 1100
-HStem: 283 63<60.75 989.25>
+Width: 1099
+Flags: W
+HStem: 283 63<61 989>
 LayerCount: 2
 Fore
 SplineSet
 619 590 m 5
  1075 315 l 5
  621 41 l 5
- 585 97.75 l 5
- 940.45703125 315.754882812 l 5
- 585 528.25 l 5
+ 585 98 l 5
+ 940 315 l 5
+ 585 528 l 5
  619 590 l 5
-60.75 283 m 5
- 60.75 346 l 5
- 989.25 346 l 5
- 989.25 283 l 5
- 60.75 283 l 5
+61 283 m 5
+ 61 346 l 5
+ 989 346 l 5
+ 989 283 l 5
+ 61 283 l 5
 EndSplineSet
-Validated: 524293
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" hyphen greater
 EndChar

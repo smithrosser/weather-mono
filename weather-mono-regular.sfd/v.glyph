@@ -1,8 +1,8 @@
 StartChar: v
 Encoding: 118 118 118
-Width: 550
+Width: 549
 Flags: W
-HStem: 0 21G<206.771 291.249> 478 20G<34 125.939 372.745 464.5>
+HStem: 0 21G<206.771 291.269> 478 20G<34 125.929 373.228 465>
 LayerCount: 2
 Back
 SplineSet
@@ -14,15 +14,14 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-968 -396 m 1048
 284 0 m 1
  214 0 l 1
  34 498 l 1
  119 498 l 1
- 251.004882812 117.54296875 l 5
- 379.5 498 l 1
- 464.5 498 l 1
+ 251 117 l 1
+ 380 498 l 1
+ 465 498 l 1
  284 0 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

@@ -1,8 +1,8 @@
 StartChar: i
 Encoding: 105 105 105
-Width: 550
+Width: 549
 Flags: W
-HStem: 0 63<73 225 300 452.5> 435 63<103 225> 573 116<217.255 306.745>
+HStem: 0 63<73 225 300 452> 435 63<103 225> 573 116<217.255 306.745>
 VStem: 204 116<586.255 675.745> 225 75<63 435>
 LayerCount: 2
 Fore
@@ -17,12 +17,12 @@ SplineSet
  103 498 l 1
  300 498 l 5
  300 63 l 5
- 452.5 63 l 1
- 452.5 0 l 1
+ 452 63 l 1
+ 452 0 l 1
  73 0 l 1
  73 63 l 1
  225 63 l 1
  225 435 l 1xe8
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar

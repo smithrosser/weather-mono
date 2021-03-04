@@ -1,29 +1,28 @@
 StartChar: greater_greater
 Encoding: 263 -1 257
-Width: 1100
+Width: 1099
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-518 348.75 m 5
- 85 608.25 l 5
- 85 528.25 l 5
- 440.45703125 315.754882812 l 5
- 85 97.75 l 5
- 85 19.75 l 5
- 518 279.75 l 5
- 518 348.75 l 5
-33 -396 m 1052
-928 348.75 m 5
- 495 608.25 l 5
- 495 528.25 l 5
- 850.45703125 315.754882812 l 5
- 495 97.75 l 5
- 495 19.75 l 5
- 928 279.75 l 5
- 928 348.75 l 5
-583 -396 m 1052
+518 349 m 1
+ 85 608 l 1
+ 85 528 l 1
+ 440 315 l 1
+ 85 98 l 1
+ 85 20 l 1
+ 518 279 l 1
+ 518 349 l 1
+928 349 m 1
+ 495 608 l 1
+ 495 528 l 1
+ 851 315 l 1
+ 495 98 l 1
+ 495 20 l 1
+ 928 279 l 1
+ 928 349 l 1
 EndSplineSet
-Validated: 524297
+Validated: 9
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" greater greater
 EndChar

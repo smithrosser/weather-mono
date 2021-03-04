@@ -1,28 +1,28 @@
 StartChar: exclam_equal
 Encoding: 258 -1 252
-Width: 1100
+Width: 1099
 Flags: W
-HStem: 190 63<60.75 989.25> 378 63<60.75 989.25> 665 20G<655.046 715.984>
+HStem: 190 63<61 989> 378 63<61 989>
 LayerCount: 2
 Fore
 SplineSet
 294 0 m 5
- 665.904296875 685 l 5
+ 666 685 l 5
  726 661 l 5
  353 -29 l 5
  294 0 l 5
-60.75 378 m 1
- 60.75 441 l 1
- 989.25 441 l 1
- 989.25 378 l 1
- 60.75 378 l 1
-60.75 190 m 1
- 60.75 253 l 1
- 989.25 253 l 1
- 989.25 190 l 1
- 60.75 190 l 1
+61 378 m 1
+ 61 441 l 1
+ 989 441 l 1
+ 989 378 l 1
+ 61 378 l 1
+61 190 m 1
+ 61 253 l 1
+ 989 253 l 1
+ 989 190 l 1
+ 61 190 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" exclam equal
 EndChar

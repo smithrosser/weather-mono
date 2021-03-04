@@ -1,27 +1,28 @@
 StartChar: slash_equal
 Encoding: 277 -1 271
-Width: 1100
-HStem: 190 63<60.75 989.25> 378 63<60.75 989.25> 657 20G<463.046 523.984>
+Width: 1099
+Flags: W
+HStem: 190 63<61 989> 378 63<61 989>
 LayerCount: 2
 Fore
 SplineSet
 102 -8 m 1
- 473.904296875 677 l 1
+ 474 677 l 1
  534 653 l 1
  161 -37 l 1
  102 -8 l 1
-60.75 190 m 1
- 60.75 253 l 1
- 989.25 253 l 1
- 989.25 190 l 1
- 60.75 190 l 1
-60.75 378 m 1
- 60.75 441 l 1
- 989.25 441 l 1
- 989.25 378 l 1
- 60.75 378 l 1
+61 190 m 1
+ 61 253 l 1
+ 989 253 l 1
+ 989 190 l 1
+ 61 190 l 1
+61 378 m 1
+ 61 441 l 1
+ 989 441 l 1
+ 989 378 l 1
+ 61 378 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 LCarets2: 1 0
 Ligature2: "'liga' Standard Ligatures in Latin lookup 0-1" slash equal
 EndChar

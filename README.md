@@ -12,14 +12,14 @@ Color theme in the screenshot is Dracula.
 
 #### Windows
 
-Would recommend using the TrueType variant (`.ttf`), as I'm having some trouble getting the
+Would recommend using the **TrueType variant (`.ttf`)** on Windows, as I'm having some trouble getting the
 OpenType version to hint properly with ClearType.
 
 To install, just right-click on `WeatherMono*.ttf` and select 'Install for all users'.
 
 #### Linux
 
-Would recommend installing the OpenType variant (`.otf`) if you're running Linux -- looks a lot nicer.
+Would recommend installing the **OpenType variant (`.otf`)** if you're running Linux -- looks a lot nicer.
 Place the file in `~/.local/share/fonts/` or `/usr/share/fonts/` and run `fc-cache -fv`.
 
 #### Mac
